@@ -1,1 +1,1 @@
-stem
+nltk.download('popular')
